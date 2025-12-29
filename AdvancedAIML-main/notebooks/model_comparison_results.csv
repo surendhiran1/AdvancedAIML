@@ -1,0 +1,4 @@
+Model,CV Accuracy
+Decision Tree,0.7756284153005464
+SVM,0.8217486338797816
+Random Forest (Tuned),0.8383060109289617
